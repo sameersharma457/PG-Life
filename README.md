@@ -132,19 +132,6 @@ Check out the live version of PG-Life: [Add your live demo URL here]
 - Username: `demo@pglife.com`
 - Password: `demo123`
 
-## 📸 Screenshots
-
-### HomePage
-![Homepage Screenshot](images/homepage-preview.png)
-
-### Property Listings
-![Property List Screenshot](images/property-list-preview.png)
-
-### Property Details
-![Property Detail Screenshot](images/property-detail-preview.png)
-
-### User Dashboard
-![Dashboard Screenshot](images/dashboard-preview.png)
 
 ## 🤝 Contributing
 
@@ -177,4 +164,4 @@ We welcome contributions! Please follow these steps:
 
 If you encounter any issues or have questions:
 
-- 📧 Email: sameersharma457@gmail.
+- 📧 Email: sameerbsharma146@gmail.com
